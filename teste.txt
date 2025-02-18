@@ -1,0 +1,66 @@
+détruire
+créer
+ajouterProducteur Merisia mariane@merisia.ca 3 2500 blvd de l'Université
+afficherProducteur Merisia
+supprimerProducteur Merisia
+ajouterProducteur Merisia mariane@merisia.ca 3 2500 blvd de l'Université
+ajouterProduit fraises 10 5 fruits Merisia
+afficherProduit fraises
+supprimerProduit fraises
+afficherProducteur Merisia
+supprimerProducteur Merisia
+ajouterProducteur Merisia mariane@merisia.ca 3 2500 blvd de l'Université
+ajouterProduit fraises 10 5 fruits Merisia
+ajouterFournisseur Addere info@addere.ca J1H 0K8
+afficherFournisseur Addere
+supprimerFournisseur Addere
+ajouterFournisseur Addere info@addere.ca J1H 0K8
+fabriquerProduit fraises Addere
+afficherProduit fraises
+afficherFournisseur Addere
+afficherProducteur Merisia
+retirerProduitFournisseur fraises Addere
+afficherProduit fraises
+afficherFournisseur Addere
+afficherProducteur Merisia
+fabriquerProduit fraises Addere
+supprimerProducteur Merisia
+afficherFournisseur Addere
+ajouterProducteur Merisia mariane@merisia.ca 3 2500 blvd de l'Université
+ajouterProduit fraises 10 5 fruits Merisia
+fabriquerProduit fraises Addere
+supprimerProduit fraises
+afficherFournisseur Addere
+afficherProducteur Merisia
+ajouterProduit fraises 10 5 fruits Merisia
+fabriquerProduit fraises Addere
+supprimerFournisseur Addere
+afficherProduit fraises
+afficherProducteur Merisia
+ajouterPointDeVente FEVE info@feve.ca Sherbrooke
+afficherPointDeVente FEVE
+supprimerPointDeVente FEVE
+ajouterPointDeVente FEVE info@feve.ca Sherbrooke
+vendreProduit fraises FEVE
+afficherProduit fraises
+afficherPointDeVente FEVE
+afficherProducteur Merisia
+retirerProduitPointDeVente fraises FEVE
+afficherProduit fraises
+afficherPointDeVente FEVE
+afficherProducteur Merisia
+vendreProduit fraises FEVE
+supprimerProducteur Merisia
+afficherPointDeVente FEVE
+ajouterProducteur Merisia mariane@merisia.ca 3 2500 blvd de l'Université
+ajouterProduit fraises 10 5 fruits Merisia
+vendreProduit fraises FEVE
+supprimerProduit fraises
+afficherPointDeVente FEVE
+afficherProducteur Merisia
+ajouterProduit fraises 10 5 fruits Merisia
+vendreProduit fraises FEVE
+supprimerPointDeVente FEVE
+afficherProduit fraises
+afficherProducteur Merisia
+quitter
